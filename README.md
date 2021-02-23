@@ -1,2 +1,2 @@
 # Hi there, 👋
-# I'm Amel Developer 👨🏻‍💻
+# I'm Amel 👨🏻‍💻
