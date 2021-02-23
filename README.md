@@ -1,1 +1,2 @@
-# adev
+# Hi there, 👋👋
+# I'm Amel Developer 👨🏻‍💻
