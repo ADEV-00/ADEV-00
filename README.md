@@ -6,8 +6,8 @@
 
 <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADEV-00" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ADEV-00&show_icons=true&theme=react" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADEV-00" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ADEV-00&show_icons=true&theme=react" alt="GitHub Stats" width="45%"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEV-00&layout=compact)](https://github.com/ADEV-00/github-readme-stats" alt="GitHub Stats" />
 </p>
 
