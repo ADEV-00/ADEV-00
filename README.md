@@ -13,7 +13,7 @@
 
 <h2> About Me⚡:</h2>
 
-I'm a **Self-Taught Web Developer** who is a very motivated and passionate young person dedicated to building web applications and constantly develop my skills and grow professionally.
+I'm a **Self-Taught Software Developer** who is a very motivated and passionate young person dedicated to building web applications and constantly develop my skills and grow professionally.
 
 ## 💼 Skills
 
