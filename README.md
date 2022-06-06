@@ -4,11 +4,12 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ADEV-00)](https://github.com/ADEV-00) [![GitHub followers](https://img.shields.io/github/followers/ADEV-00.svg?style=social&label=Follow)](https://github.com/ADEV-00?tab=followers)
 
-<p align="center">
+<p>
   <b><em>Overall GitHub Stats:</em></b> <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADEV-00" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ADEV-00&show_icons=true&theme=react" alt="GitHub Stats" width="45%"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEV-00&layout=compact)](https://github.com/ADEV-00/github-readme-stats" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADEV-00" alt="GitHub Stats" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ADEV-00&show_icons=true&theme=react" alt="GitHub Stats" width="35%"/><br/>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEV-00&layout=compact)](https://github.com/ADEV-00/github-readme-stats" alt="GitHub Stats"  width="25%" /></p>
 </p>
 
 <h2> About Me⚡:</h2>
